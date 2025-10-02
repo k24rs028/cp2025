@@ -5,10 +5,6 @@ This is README.
 - item1
 - item2
 
-<<<<<<< HEAD
-## part 2
-1. Sunday
-=======
 ## Part 2
 1. Sunday
 1. Monday
